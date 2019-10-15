@@ -28,7 +28,7 @@ db.json`.
     <li class='quote-card'>
       <blockquote class="blockquote">
         <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-        <footer class="blockquote-footer">Someone famous</footer>
+        <footer class=`"blockquote-footer">Someone famous</footer>
         <br>
         <button class='btn-success'>Likes: <span>0</span></button>
         <button class='btn-danger'>Delete</button>
